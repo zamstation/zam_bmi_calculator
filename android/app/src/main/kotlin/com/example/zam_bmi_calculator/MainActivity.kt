@@ -1,4 +1,4 @@
-package com.example.zam_bmi_calculator
+package com.zamstation.zam_bmi_calculator
 
 import io.flutter.embedding.android.FlutterActivity
 
